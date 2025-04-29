@@ -11,6 +11,7 @@ const INITIAL_STATE: User = {
     name: '',
     age: 0,
     email: '',
+    updated: 0,
     password: '',
     phone: 0
 };

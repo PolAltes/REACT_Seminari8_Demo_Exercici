@@ -46,3 +46,9 @@
     color: #777;
     word-break: break-all; /* Ensure long emails don't overflow */
 }
+
+.updated {
+    margin: 0;
+    font-size: 14px;
+    color: #777;
+}
